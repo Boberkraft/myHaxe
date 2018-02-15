@@ -1,0 +1,4 @@
+-cp src
+-dce full
+-js test.js
+-main Main
